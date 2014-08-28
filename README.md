@@ -17,3 +17,8 @@
 
 ##TODO
 - 添加视频清晰度筛选
+
+##运行效果
+![](snapshot/video.jpg)
+
+![](snapshot/magnet.jpg)

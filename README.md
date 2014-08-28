@@ -2,6 +2,9 @@
 
 ![](src/icon.png)
 
+##安装
+[点我直接下载“视频下载.workflows”](https://raw.githubusercontent.com/jShi-git/video-searcher/master/download/%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD.alfredworkflow)
+
 ##项目说明
 两个功能:
 
